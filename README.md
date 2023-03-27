@@ -1,1 +1,1 @@
-# PROJECT
+This project is only for demo purpose.
